@@ -7,8 +7,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love coffe
 
-----
-
 <div style="display: inline_block">
   <img align="center" alt="lohan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lohan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,6 +14,8 @@
   <img align="center" alt="lohan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lohan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+###
 
 <div>
     <a href="github.com/LohanGuedes" />
