@@ -2,7 +2,7 @@
 
 <div>
     <a href="github.com/LohanGuedes">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=LohanGuedes?theme=gruvbox" />
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=LohanGuedes&show_icons=true&theme=gruvbox" />
 
 </div>
 
