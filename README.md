@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋 My name is Lohan!
+
+<div>
+    <a href="github.com/LohanGuedes">
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=LohanGuedes" />
+
+</div>
 
 - 🔭 I’m currently working on a website
 - 🌱 I’m currently learning JavaScript HTML and CSS
