@@ -1,11 +1,11 @@
 ## Hi there 👋 My name is Lohan!
 
-- 🔭 I’m currently working on a website
-- 🌱 I’m currently learning JavaScript HTML and CSS
-- 👯 I’m looking to collaborate on open-source and free software
-- 📫 How to reach me: lohancravoguedes.contato@gmail.com
+- 🔭 I’m currently attending 42rio's basecamp
+- 🌱 I’m currently learning Bash, C, softskills and P2P evaluation methods
+- 👯 I’m looking to collaborate on open-source, free-software and education projects.
+- 📫 How to reach me: lguedes@student.42.fr
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love coffe
+- ⚡ Fun fact: I really love to do recursion. even though I'm not that good on it.
 
 <div style="display: inline_block">
   <img align="center" alt="lohan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
