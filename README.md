@@ -1,11 +1,11 @@
 ## Hi there 👋 My name is Lohan!
 
-- 🔭 I’m currently attending 42rio's basecamp
-- 🌱 I’m currently learning Shell Script, C, softskills and P2P evaluation methods
+- 🔭 I’m currently waiting 42rio's basecamp results
+- 🌱 I’m currently learning C, softskills, Rust/Go, BuildSystems and P2P evaluation methods
 - 👯 I’m looking to collaborate on open-source, free-software and education projects.
 - 📫 How to reach me: lguedes@student.42.rio
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I really love to do recursion. even though I'm not that good on it.
+- ⚡ Fun fact: I love cooking <3
 
 <div style="display: inline_block">
   <img align="center" alt="lohan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
