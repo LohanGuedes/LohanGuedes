@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Lohan!
 
-- 🔭 I’m currently waiting 42rio's basecamp results
+- 🔭 I’m currently attending ecole42 as a **CADET**
 - 🌱 I’m currently learning C, softskills, Rust/Go, BuildSystems and P2P evaluation methods
 - 👯 I’m looking to collaborate on open-source, free-software and education projects.
 - 📫 How to reach me: lguedes@student.42.rio
