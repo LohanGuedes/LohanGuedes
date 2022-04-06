@@ -1,9 +1,9 @@
 ## Hi there 👋 My name is Lohan!
 
 - 🔭 I’m currently attending ecole42 as a **CADET**
-- 🌱 I’m currently learning C, softskills, Rust/Go, BuildSystems and P2P evaluation methods
+- 🌱 I’m currently learning C, Java, BuildSystems, DataStructures + Algorithms, PosrgreSQL and P2P evaluation/Co-working methods
 - 👯 I’m looking to collaborate on open-source, free-software and education projects.
-- 📫 How to reach me: lguedes@student.42.rio
+- 📫 How to reach me: lguedes@student.42.rio -> if that does not work: lcravog@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cooking <3
 
