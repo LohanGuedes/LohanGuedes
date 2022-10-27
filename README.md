@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open-source, free-software and education projects.
 - 📫 How to reach me: lguedes@student.42.rio
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love cooking <3
+- ⚡ Fun fact: I love cooking, productivity Tools and also love emacs for journaling!
 
 <div style="display: inline_block">
   <img align="center" alt="lohan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
