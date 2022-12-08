@@ -1,8 +1,8 @@
 ## Hi there 👋 My name is Lohan!
 
-- 🔭 I’m currently attending ecole42 as a **CADET**
-- 🌱 I’m currently learning C, DataStructures + Algorithms and P2P evaluation/Co-working methods
-- 👯 I’m looking to collaborate on open-source, free-software and education projects.
+- 🔭 I’m currently attending ecole42 as a **CADET** <3 
+- 🌱 I’m currently learning (C, C#, iOS native development), DataStructures, Algorithms and Co-working methods.
+- 👯 I’m looking to collaborate on FOSS, Education Projects and Tech for Health.
 - 📫 How to reach me: lguedes@student.42.rio
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cooking, productivity Tools and also love emacs for journaling!
