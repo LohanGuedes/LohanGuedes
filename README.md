@@ -20,10 +20,3 @@
 </div>
 
 ###
-
-<div>
-    <a href="github.com/LohanGuedes" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LohanGuedes&show_icons=true&theme=gruvbox" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohanGuedes&layout=compact&theme=gruvbox" />
-</div>
-
