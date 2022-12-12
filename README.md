@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Lohan!
 
 - 🔭 I’m currently attending ecole42 as a **CADET** <3 
-- 🌱 I’m currently learning (C, C#, iOS native development), DataStructures, Algorithms and Co-working methods.
+- 🌱 I’m currently learning C, C#, iOS native development, DataStructures, Algorithms and Co-working methods.
 - 👯 I’m looking to collaborate on FOSS, Education Projects and Tech for Health.
 - 📫 How to reach me: lguedes@student.42.rio
 - 😄 Pronouns: he/him
