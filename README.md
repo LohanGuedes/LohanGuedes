@@ -1,11 +1,10 @@
 ## Hi there 👋 My name is Lohan!
 
 - 🔭 I’m currently attending ecole42 as a **CADET** <3 
-- 🌱 I’m currently learning C, C#, iOS native development, DataStructures, Algorithms, PostgreSQL and Co-working methods.
+- 🌱 I’m currently learning C, React, ReactNative, TS, C#, iOS native development, DataStructures + Algorithms, PostgreSQL and Co-working methods.
 - 👯 I’m looking to collaborate on FOSS, Education Projects and Tech for Health.
 - 📫 How to reach me: lguedes@student.42.rio
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love cooking, productivity Tools and also love riding my bike!
+- ⚡ Fun fact: I love cooking, productivity Tools
 
 <div style="display: inline_block">
   <img align="center" alt="lohan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
