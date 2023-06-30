@@ -1,20 +1,22 @@
 ## Hi there 👋 My name is Lohan!
 
-- 🔭 I’m currently attending ecole42 as a **CADET** <3 
-- 🌱 I’m currently learning C, React, ReactNative, TS, C#, iOS native development, DataStructures + Algorithms, PostgreSQL and Co-working methods.
-- 👯 I’m looking to collaborate on FOSS, Education Projects and Tech for Health.
-- 📫 How to reach me: lguedes@student.42.rio
+- 🔭 I’m currently Working as a Software Engineer @ NutrixAG and attending ecole42 as a **CADET** <3
+- 🌱 I’m currently learning C, React, TS, C#, DataStructures + Algorithms, PostgreSQL and Co-working/Studying methods.
+- 👯 I’m looking to collaborate on Education Projects and Tech for Health.
+- 📫 How to reach me: lcravog@gmail.com
 - ⚡ Fun fact: I love cooking, productivity Tools
 
-<div style="display: inline_block">
-  <img align="center" alt="lohan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="lohan-Bash" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="lohan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="lohan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="lohan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="lohan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="lohan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="lohan-Rust" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
+<div style="display: inline_block; margin-bottom: 40px;">
+  <img align="center" alt="lohan-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="lohan-Go" height="65" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img align="center" alt="lohan-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="lohan-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="lohan-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="lohan-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="lohan-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="lohan-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="lohan-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
 </div>
 
-###
+
+![image](https://github.com/LohanGuedes/LohanGuedes/assets/61142917/274a132c-88e3-47c5-a16f-712876376b5b)
