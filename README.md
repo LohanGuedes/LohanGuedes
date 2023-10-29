@@ -1,8 +1,8 @@
 ## Hi there 👋 My name is Lohan!
 
-- 🔭 I’m currently Working as a Software Engineer @ NutrixAG and attending ecole42 as a **CADET** <3
-- 🌱 I’m currently learning C, React, TS, C#, DataStructures + Algorithms, PostgreSQL and Co-working/Studying methods.
-- 👯 I’m looking to collaborate on Education Projects and Tech for Health.
+- 🔭 I’m currently Working as a Software Engineer and attending ecole42 as a **CADET** <3
+- 🌱 I’m currently learning Node, C, NestJS, TS, C#, DataStructures + Algorithms, PostgreSQL.
+- 👯 I’m looking to collaborate on any project that hypes me up.
 - 📫 How to reach me: lcravog@gmail.com
 - ⚡ Fun fact: I love cooking, productivity Tools
 
