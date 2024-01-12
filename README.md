@@ -1,10 +1,10 @@
 ## Hi there 👋 My name is Lohan!
 
 - 🔭 I’m currently Working as a Software Engineer and attending ecole42 as a **CADET** <3
-- 🌱 I’m currently learning Node, C, NestJS, TS, C#, DataStructures + Algorithms, PostgreSQL.
-- 👯 I’m looking to collaborate on any project that hypes me up.
+- 🌱 I’m currently learning Go, Docker, gRPC, Software Architecture, NestJS, DataStructures + Algorithms, PostgreSQL.
+- 👯 I’m looking to collaborate on any project that works with Go. Hit me up.
 - 📫 How to reach me: lcravog@gmail.com
-- ⚡ Fun fact: I love cooking, productivity Tools
+- ⚡ Fun fact: I love cooking, productivity Tools and Leetcode
 
 <div style="display: inline_block; margin-bottom: 40px;">
   <img align="center" alt="lohan-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
