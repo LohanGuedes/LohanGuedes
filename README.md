@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Lohan!
 
 - 🔭 I’m currently Working as a Software Engineer and attending ecole42 as a **CADET** <3
-- 🌱 I’m currently learning Go, Docker, gRPC, Software Architecture, NestJS, DataStructures + Algorithms, PostgreSQL.
+- 🌱 I’m currently learning Go, Docker, gRPC, Software Architecture, DataStructures + Algorithms and PostgreSQL.
 - 👯 I’m looking to collaborate on any project that works with Go. Hit me up.
 - 📫 How to reach me: lcravog@gmail.com
 - ⚡ Fun fact: I love cooking, productivity Tools and Leetcode
