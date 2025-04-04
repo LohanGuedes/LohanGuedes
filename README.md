@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Lohan!
 
-- 🔭 I’m currently Working as a Software Engineer and attending ecole42 as a **CADET** <3
+- 🔭 I’m currently Working as a Software Engineer @monest and attending ecole42 as a **CADET** <3
 - 🌱 I’m currently Mastering Go, Docker, gRPC, Software Architecture, and PostgreSQL.
 - 👯 I’m looking to collaborate on any project that works with Go. Hit me up.
 - 📫 How to reach me: lcravog@gmail.com
