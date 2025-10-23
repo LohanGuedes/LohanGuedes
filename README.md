@@ -1,10 +1,10 @@
 ## Hi there 👋 My name is Lohan!
 
-- 🔭 I’m currently Working as a Software Engineer @monest and attending ecole42 as a **Alumni** <3
-- 🌱 I’m currently Mastering Go, Docker, gRPC, Software Architecture, and PostgreSQL.
+- 🔭 I’m currently Working as a Software Engineer @ Modak and attending Ecole42 as a **Alumni** <3
+- 🌱 I’m currently Mastering Go, Software Architecture, DDD, I am also working on getting my RNCP-7 from Ecole42.
 - 👯 I’m looking to collaborate on any project that works with Go. Hit me up.
 - 📫 How to reach me: lcravog@gmail.com
-- ⚡ Fun fact: I love cooking, productivity Tools and Leetcode
+- ⚡ Fun fact: I love cooking, productivity Tools, Boxing and Music. My favorite band is RHCP
 
 <div style="display: inline_block; margin-bottom: 40px;">
   <img align="center" alt="lohan-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
