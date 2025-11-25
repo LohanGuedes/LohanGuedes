@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Lohan!
 
-- 🔭 I’m currently Working as a Software Engineer @ Modak and attending Ecole42 as a **Alumni** <3
+- 🔭 I’m currently Working as a Software Engineer @ Modak and attending Ecole42 as a **Trasncender!!!* <3 (Trying to get My RNCP7)
 - 🌱 I’m currently Mastering Go, Software Architecture, DDD, I am also working on getting my RNCP-7 from Ecole42.
 - 👯 I’m looking to collaborate on any project that works with Go. Hit me up.
 - 📫 How to reach me: lcravog@gmail.com
